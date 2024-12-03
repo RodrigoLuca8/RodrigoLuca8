@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥️ Estudando TypeScript com foco em Backend<br>Bem-vindo ao meu espaço de aprendizado! 🚀 Atualmente, estou focado em aprimorar minhas habilidades em TypeScript, explorando práticas modernas e ferramentas do ecossistema backend. Meu objetivo é construir aplicações robustas, escaláveis e bem tipadas.<br><br>📚 Principais áreas de estudo:<br>Estruturação de APIs REST .<br>Integração com bancos de dados (SQL e NoSQL).<br>Padrões de projeto e boas práticas no backend.<br>Utilização de frameworks como Express e NestJS.</p>
+<p align="left">🖥️ Estudando TypeScript com foco em Backend<br>Bem-vindo ao meu espaço de aprendizado! 🚀 Atualmente, estou focado em aprimorar minhas habilidades em TypeScript, explorando práticas modernas e ferramentas do ecossistema backend. Meu objetivo é construir aplicações robustas, escaláveis e bem tipadas
 
 ###
 
